@@ -9,7 +9,7 @@
 |------|------------|----------|
 | HTML |Markup      | 5        |
 | CSS  |Style       | 4        |
-| Java |Scripting   | ES15     |
+| Java |Logic       | ES7      |
 
 ---
 
